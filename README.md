@@ -1,0 +1,2 @@
+# FILE-EXPLORER
+ FILE-EXPLORER est une application de bureau conçue en Python qui permet d'explorer visuellement la structure des dossiers et des fichiers stockés sur votre ordinateur. Cette application offre une interface utilisateur graphique (GUI) simple et intuitive pour naviguer dans l'arborescence des fichiers, ouvrir des fichiers avec leur application associée, créer de nouveaux dossiers et fichiers, ainsi que d'effectuer des opérations de base telles que copier, coller, supprimer et renommer.
